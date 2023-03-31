@@ -1,0 +1,1 @@
+python air13.py "Bonjour les gars" > temp.txt
